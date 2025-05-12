@@ -1,6 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
+# DEVELOPED BY: RAMSANJAY C
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
